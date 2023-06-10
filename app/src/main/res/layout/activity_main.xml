@@ -12,10 +12,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/appNameTxt"
-        android:text="nSquare N2N"
+        android:text="@string/app_name_head"
         android:textSize="34sp"
         android:textStyle="bold"
-        android:textColor="@color/white" />
+        android:textColor="@color/white"
+        />
 
     <TextView
         android:id="@+id/sloganTxt"
